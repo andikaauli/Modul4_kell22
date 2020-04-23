@@ -59,7 +59,7 @@ public class Tugas_modul4 {
          case 3 :
            System.out.println("Mohon Maaf TERANG BULAN Oreo Nutella Telah Out Of Order");
            System.out.println("Silahkan Order Variasi Rasa lain");
-           System.out.println("        Salam dari kami -TERANG BULAN WENAX");
+           System.out.println("        Salam dari kami -TEANG BULAN WENAX");
            System.out.println("");
            System.exit(0);
          break;
