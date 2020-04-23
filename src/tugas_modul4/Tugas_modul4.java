@@ -17,13 +17,13 @@ public class Tugas_modul4 {
         System.out.println("                 Selamat Datang");
         System.out.println("                  Variasi Rasa");
         System.out.println("");
-        System.out.println("               1. Cokelat Kacang");
-        System.out.println("               2. Keju Campur");      
-        System.out.println("               3. Oreo Nutella");      
-        System.out.println("               4. Kitkat Greentea");      
-        System.out.println("               5. Tobeleron Keju");      
-        System.out.println("               6. Chunky Bar Susu");
-        System.out.println("               7. Delfi Kacang");
+        System.out.println("               1. Cokelat Kacang Rp. 14.000");
+        System.out.println("               2. Keju Campur Rp. 14.000");      
+        System.out.println("               3. Oreo Nutella Rp. 16.000");      
+        System.out.println("               4. Kitkat Greentea Rp. 16.000");      
+        System.out.println("               5. Tobeleron Keju Rp. 16.000");      
+        System.out.println("               6. Chunky Bar Susu Rp. 16.000");
+        System.out.println("               7. Delfi Kacang Rp. 16.000");
         System.out.println("");
         System.out.println("################################################");
     }
@@ -43,6 +43,7 @@ public class Tugas_modul4 {
       pilih = Integer.parseInt(input.next());
       switch(pilih){
          case 1 :
+           System.out.println("Total belanja anda Rp. 14.000");
            System.out.println("TERANG BULAN Cokelat Kacang anda segera kami kirim");
            System.out.println("Terima Kasih atas pembelian anda");
            System.out.println("        Salam dari kami -TERANG BULAN WENAX");
@@ -50,6 +51,7 @@ public class Tugas_modul4 {
            System.exit(0);
          break;
          case 2 :
+           System.out.println("Total belanja anda Rp. 14.000");
            System.out.println("TERANG BULAN Keju Campur anda segera kami kirim");
            System.out.println("Terima Kasih atas pembelian anda");
            System.out.println("        Salam dari kami -TERANG BULAN WENAX");
@@ -57,6 +59,7 @@ public class Tugas_modul4 {
            System.exit(0);
          break; 
          case 3 :
+           System.out.println("Total belanja anda Rp. 16.000");
            System.out.println("Mohon Maaf TERANG BULAN Oreo Nutella Telah Out Of Order");
            System.out.println("Silahkan Order Variasi Rasa lain");
            System.out.println("        Salam dari kami -TERANG BULAN WENAX");
@@ -64,6 +67,7 @@ public class Tugas_modul4 {
            System.exit(0);
          break;
          case 4 :
+           System.out.println("Total belanja anda Rp. 16.000");
            System.out.println("TERANG BULAN Kitkat Greentea anda segera kami kirim");
            System.out.println("Terima Kasih atas pembelian anda");
            System.out.println("        Salam dari kami -TERANG BULAN WENAX");
@@ -71,6 +75,7 @@ public class Tugas_modul4 {
            System.exit(0);
          break;
          case 5 :
+           System.out.println("Total belanja anda Rp. 16.000");
            System.out.println("TERANG BULAN Tobeleron Keju anda segera kami kirim");
            System.out.println("Terima Kasih atas pembelian anda");
            System.out.println("        Salam dari kami -TERANG BULAN WENAX");
@@ -78,6 +83,7 @@ public class Tugas_modul4 {
            System.exit(0);
          break;
          case 6 :
+           System.out.println("Total belanja anda Rp. 16.000");
            System.out.println("Mohon Maaf TERANG BULAN Chunky Bar Susu Telah Out Of Order");
            System.out.println("Silahkan Order Variasi Rasa lain");
            System.out.println("        Salam dari kami -TERANG BULAN WENAX");
@@ -85,6 +91,7 @@ public class Tugas_modul4 {
            System.exit(0);
          break;
          case 7 :
+           System.out.println("Total belanja anda Rp. 16.000");
            System.out.println("TERANG BULAN Delfi Kacang anda segera kami kirim");
            System.out.println("Terima Kasih atas pembelian anda");
            System.out.println("        Salam dari kami -TERANG BULAN WENAX");
